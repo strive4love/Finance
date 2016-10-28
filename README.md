@@ -31,3 +31,7 @@ P——资产价值损失小于可能损失上限的概率，即英文的Probabi
 VaR——给定置信水平a下的在险价值，即可能的损失上限。
 a——给定的置信水平
 
+## OPSI
+OPICS:资金交易系统 (OPICS)
+uksvadmrx02a:/shared/opt/sybase/openclient_opics/15
+
